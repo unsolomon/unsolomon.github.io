@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Finding Goals"
+title                    : #"Finding Goals"
 title_separator          : "-"
-subtitle                 : "small positive action"
+subtitle                 : #"small positive action"
 name                     : "Jeongin"
 description              : "성장과정 정리 블로그 입니다"
 url                      : "https://unsolomon.github.io"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Finding Goals"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "목표를 찾아서"
+  location         : #"Somewhere"
   email            :
   links:
     - label: "Email"
