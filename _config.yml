@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "aaa Goals"
+  name             : "Finding Goals"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "목표를 찾아서"
   location         : #"Somewhere"
